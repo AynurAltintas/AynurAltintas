@@ -14,7 +14,7 @@ Mühendislik temelli yaklaşımlarla **web tabanlı projeler geliştirmekten key
 
 **Veritabanı:** SQL, PostgreSQL, SQLite  
 
-**Teknik İlgi Alanları:** Nesneye Yönelik Programlama (OOP), Algoritmalar, Veri Yapıları, Linux Temelleri  
+**Teknik İlgi Alanları:** Nesneye Yönelik Programlama (OOP), Algoritmalar, Veri Yapıları
 
 ---
 
