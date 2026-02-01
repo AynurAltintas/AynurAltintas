@@ -37,6 +37,4 @@ Mühendislik temelli yaklaşımlarla **web tabanlı projeler geliştirmekten key
 ## 📫 Bana Ulaşın
 
 - **E-posta:** [aynuraltintas00@gmail.com](mailto:aynuraltintas00@gmail.com)  
-- **LinkedIn:** [LinkedIn Profilin](#)  
-
 ---
